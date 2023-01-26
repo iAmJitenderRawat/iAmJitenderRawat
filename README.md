@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamjitenderrawat" alt="iamjitenderrawat" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB, Redux-Toolkit and Docker.**
+<!-- - 🌱 I’m currently learning **.** -->
+- 🌱 I’m currently looking for a **job.**
 
 - 👨‍💻 All of my projects are available at [Jitenderrawat39@gmail.com](Jitenderrawat39@gmail.com)
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **Jitenderrawat39@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RocveE7ppf6znfnlpFdITyRYjN76hu81/view?usp=sharing](https://drive.google.com/file/d/1RocveE7ppf6znfnlpFdITyRYjN76hu81/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eLcvLgka7xRNTBlHMgKX7i1TFPYx6L-z/view?usp=sharing](https://drive.google.com/file/d/1eLcvLgka7xRNTBlHMgKX7i1TFPYx6L-z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
