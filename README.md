@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jitender Rawat</h1>
-<h3 align="center">I am an aspiring Full Stack Web Developer living in Mohali, Punjab. I have created 10+ projects including both small and big. Now, I want to apply my skills and furnish them more to become better than my previous version.</h3>
+<h3 align="center">I am an aspiring Full Stack Web Developer living in Mohali, Punjab. I have created 15+ projects including both small and big. Now, I want to apply my skills and furnish them more to become better than my previous version.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjitenderrawat&label=Profile%20views&color=0e75b6&style=flat" alt="iamjitenderrawat" /> </p>
 
@@ -32,4 +32,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamjitenderrawat&show_icons=true&locale=en" alt="iamjitenderrawat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjitenderrawat&" alt="iamjitenderrawat" /></p>
-
