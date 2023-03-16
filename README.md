@@ -8,13 +8,13 @@
 <!-- - 🌱 I’m currently learning **.** -->
 - 🌱 I’m currently looking for a **job.**
 
-- 👨‍💻 All of my projects are available at [Jitenderrawat39@gmail.com](Jitenderrawat39@gmail.com)
+- 👨‍💻 All of my projects are available at [[Jitenderrawat39@gmail.com](https://iamjitenderrawat.github.io/)]
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js,**
 
 - 📫 How to reach me **Jitenderrawat39@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eLcvLgka7xRNTBlHMgKX7i1TFPYx6L-z/view?usp=sharing](https://drive.google.com/file/d/1eLcvLgka7xRNTBlHMgKX7i1TFPYx6L-z/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LoUa-hNtpA2yRz7n31-gwkvkTSy2MWzs/view?usp=sharing](https://drive.google.com/file/d/1LoUa-hNtpA2yRz7n31-gwkvkTSy2MWzs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
